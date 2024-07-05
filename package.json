@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-wa-bot",
+  "name": "yogi-bot",
   "version": "1.0.0",
   "description": "WhatsApp Bot with ChatGPT",
   "main": "app.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "bot"
   ],
-  "author": "Bangik",
+  "author": "SofyanEkaFebriyanto",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
